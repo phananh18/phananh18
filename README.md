@@ -31,3 +31,12 @@ I'm PhanTuanAnh, Hello World 👋
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23316192.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+### Connect with me
+[<img alt="Instagram" src="https://img.shields.io/badge/luanhytran-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>][facebook]
+
+<br />
+<br />
+[instagram]: https://www.instagram.com/_tuananh_1811/
+[facebook]: https://www.facebook.com/profile.php?id=100012907031919

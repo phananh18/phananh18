@@ -24,5 +24,5 @@ I'm PhanTuanAnh, Hello World 👋
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23316192.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white)

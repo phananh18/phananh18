@@ -12,11 +12,6 @@ I'm Phan Tuan Anh, Hello World 👋
 ```
 [![CodingwithVudang](dino.gif)](https://www.facebook.com/codingwithvudang)
 
-## github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phananh18&show_icons=true&&theme=dark  )](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluanhytran&count_bg=%235C6258&title_bg=%23000000&icon=wolfram.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

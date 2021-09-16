@@ -10,7 +10,6 @@ I'm Phan Tuan Anh, Hello World 👋
               ||     ||
               🌎     🌍     
 ```
-[![CodingwithVudang](dino.gif)](https://www.facebook.com/codingwithvudang)
 
 ### Languages
 

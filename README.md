@@ -35,4 +35,4 @@ I'm Phan Tuan Anh, Hello World 👋
 
 [instagram]: https://www.instagram.com/_tuananh_1811/
 [facebook]: https://www.facebook.com/profile.php?id=100012907031919
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phananh18&layout=compact)
